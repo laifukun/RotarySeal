@@ -1,0 +1,43 @@
+#input data 
+
+UNIT = MKS
+
+Log File Name = logfile.txt
+Data File Name = datafile.txt
+Pressure File Name = pressuredata.txt
+Deformation File Name = deformationdata.txt
+
+ShaftDiameter = 0.174625
+Film Thickness = 2e-6;
+Sealing Length = 0.1E-3;
+Sealing Width = 0.1E-3;
+
+RMS Roughness of Seal Surface = 1e-6
+Elastic Parameter of Lip = 0.001
+Autocorrelation Length in Y = 5e-6
+Autocorrelation Length in X = 1.667E-6
+Maximum Lip Surface Displacement = 0.7
+Sealed Pressure = 2E5
+Ambient Pressure = 1E5
+Cavitation Pressure = 0.0
+Maximum Contact Pressure = 5.5E5
+Viscosity = 0.02
+Sliding Speed = 1092
+Dimensionless Static Film Thickness= 1.4
+Aspect Ratio of Asperity = 3
+Shaft Youngs Modulus = 190E9
+Shaft Poisson Ratio = 0.33
+Seal Youngs Modulus = 3E6
+Seal Poisson Ratio = 0.48
+Seal Inside Pressure = 1E5
+Seal Outside Pressure = 1E5
+Pressure Tolerance = 1E-5
+Displacement Tolerance = 1E-5
+Pressure Under Relaxation Factor = 0.9
+Displacement Under Relaxation Factor = 0.5
+Number of Point in Y = 31
+Number of Point in X =31
+Print Interval = 20
+Deformation Calculation = YES
+Maximum Pressure Iteration  = 100000
+Maximum Deformation Iteration = 200

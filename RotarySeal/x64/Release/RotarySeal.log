@@ -1,0 +1,45 @@
+﻿  RotarySeal.cpp
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(94,24): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(95,31): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(96,32): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(97,36): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(98,39): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(99,33): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(100,33): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(102,33): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(103,32): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(104,45): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(106,41): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(107,44): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(108,44): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(110,49): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(111,34): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(112,35): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(114,38): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(115,42): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(116,29): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(118,32): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(119,52): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(120,41): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(125,37): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(126,36): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(127,38): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(128,37): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(129,38): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(131,39): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(132,37): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(133,41): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(135,49): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(136,53): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(137,36): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(138,36): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(139,33): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(140,42): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(143,44): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(144,47): warning C4307:  '*': integral constant overflow
+  Generating code
+  3 of 949 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RotarySeal.vcxproj -> C:\Users\f.lai\source\repos\RotarySeal\x64\Release\RotarySeal.exe

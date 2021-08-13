@@ -1,0 +1,800 @@
+
+**********Deformation iteration number: 0; Iteration tolerance: 0.529649
+
+
+**********Deformation iteration number: 1; Iteration tolerance: 0.147905
+
+
+**********Deformation iteration number: 2; Iteration tolerance: 0.738808
+
+
+**********Deformation iteration number: 3; Iteration tolerance: 0.530164
+
+
+**********Deformation iteration number: 4; Iteration tolerance: 0.671848
+
+
+**********Deformation iteration number: 5; Iteration tolerance: 0.178063
+
+
+**********Deformation iteration number: 6; Iteration tolerance: 1.05756
+
+
+**********Deformation iteration number: 7; Iteration tolerance: 0.595272
+
+
+**********Deformation iteration number: 8; Iteration tolerance: 0.379555
+
+
+**********Deformation iteration number: 9; Iteration tolerance: 0.106892
+
+
+**********Deformation iteration number: 10; Iteration tolerance: 0.0259012
+
+
+**********Deformation iteration number: 11; Iteration tolerance: 0.480879
+
+
+**********Deformation iteration number: 12; Iteration tolerance: 0.494845
+
+
+**********Deformation iteration number: 13; Iteration tolerance: 0.741961
+
+
+**********Deformation iteration number: 14; Iteration tolerance: 0.192202
+
+
+**********Deformation iteration number: 15; Iteration tolerance: 1.23588
+
+
+**********Deformation iteration number: 16; Iteration tolerance: 0.67075
+
+
+**********Deformation iteration number: 17; Iteration tolerance: 0.22008
+
+
+**********Deformation iteration number: 18; Iteration tolerance: 0.675002
+
+
+**********Deformation iteration number: 19; Iteration tolerance: 0.180693
+
+
+**********Deformation iteration number: 20; Iteration tolerance: 1.05972
+
+
+**********Deformation iteration number: 21; Iteration tolerance: 0.596922
+
+
+**********Deformation iteration number: 22; Iteration tolerance: 0.357728
+
+
+**********Deformation iteration number: 23; Iteration tolerance: 0.0999692
+
+
+**********Deformation iteration number: 24; Iteration tolerance: 0.0240772
+
+
+**********Deformation iteration number: 25; Iteration tolerance: 0.446754
+
+
+**********Deformation iteration number: 26; Iteration tolerance: 0.482798
+
+
+**********Deformation iteration number: 27; Iteration tolerance: 0.749633
+
+
+**********Deformation iteration number: 28; Iteration tolerance: 0.193657
+
+
+**********Deformation iteration number: 29; Iteration tolerance: 1.25696
+
+
+**********Deformation iteration number: 30; Iteration tolerance: 0.683137
+
+
+**********Deformation iteration number: 31; Iteration tolerance: 0.226694
+
+
+**********Deformation iteration number: 32; Iteration tolerance: 0.670774
+
+
+**********Deformation iteration number: 33; Iteration tolerance: 0.179723
+
+
+**********Deformation iteration number: 34; Iteration tolerance: 1.04917
+
+
+**********Deformation iteration number: 35; Iteration tolerance: 0.594263
+
+
+**********Deformation iteration number: 36; Iteration tolerance: 0.373851
+
+
+**********Deformation iteration number: 37; Iteration tolerance: 0.105043
+
+
+**********Deformation iteration number: 38; Iteration tolerance: 0.0253303
+
+
+**********Deformation iteration number: 39; Iteration tolerance: 0.47263
+
+
+**********Deformation iteration number: 40; Iteration tolerance: 0.491671
+
+
+**********Deformation iteration number: 41; Iteration tolerance: 0.74502
+
+
+**********Deformation iteration number: 42; Iteration tolerance: 0.192823
+
+
+**********Deformation iteration number: 43; Iteration tolerance: 1.24417
+
+
+**********Deformation iteration number: 44; Iteration tolerance: 0.6756
+
+
+**********Deformation iteration number: 45; Iteration tolerance: 0.222626
+
+
+**********Deformation iteration number: 46; Iteration tolerance: 0.673195
+
+
+**********Deformation iteration number: 47; Iteration tolerance: 0.180239
+
+
+**********Deformation iteration number: 48; Iteration tolerance: 1.05569
+
+
+**********Deformation iteration number: 49; Iteration tolerance: 0.595776
+
+
+**********Deformation iteration number: 50; Iteration tolerance: 0.365668
+
+
+**********Deformation iteration number: 51; Iteration tolerance: 0.102456
+
+
+**********Deformation iteration number: 52; Iteration tolerance: 0.0247491
+
+
+**********Deformation iteration number: 53; Iteration tolerance: 0.458959
+
+
+**********Deformation iteration number: 54; Iteration tolerance: 0.487609
+
+
+**********Deformation iteration number: 55; Iteration tolerance: 0.747354
+
+
+**********Deformation iteration number: 56; Iteration tolerance: 0.193255
+
+
+**********Deformation iteration number: 57; Iteration tolerance: 1.25061
+
+
+**********Deformation iteration number: 58; Iteration tolerance: 0.679366
+
+
+**********Deformation iteration number: 59; Iteration tolerance: 0.224773
+
+
+**********Deformation iteration number: 60; Iteration tolerance: 0.671915
+
+
+**********Deformation iteration number: 61; Iteration tolerance: 0.180018
+
+
+**********Deformation iteration number: 62; Iteration tolerance: 1.05258
+
+
+**********Deformation iteration number: 63; Iteration tolerance: 0.594928
+
+
+**********Deformation iteration number: 64; Iteration tolerance: 0.370588
+
+
+**********Deformation iteration number: 65; Iteration tolerance: 0.10404
+
+
+**********Deformation iteration number: 66; Iteration tolerance: 0.025117
+
+
+**********Deformation iteration number: 67; Iteration tolerance: 0.466386
+
+
+**********Deformation iteration number: 68; Iteration tolerance: 0.49029
+
+
+**********Deformation iteration number: 69; Iteration tolerance: 0.745567
+
+
+**********Deformation iteration number: 70; Iteration tolerance: 0.192909
+
+
+**********Deformation iteration number: 71; Iteration tolerance: 1.24575
+
+
+**********Deformation iteration number: 72; Iteration tolerance: 0.67646
+
+
+**********Deformation iteration number: 73; Iteration tolerance: 0.223123
+
+
+**********Deformation iteration number: 74; Iteration tolerance: 0.6729
+
+
+**********Deformation iteration number: 75; Iteration tolerance: 0.180188
+
+
+**********Deformation iteration number: 76; Iteration tolerance: 1.05497
+
+
+**********Deformation iteration number: 77; Iteration tolerance: 0.595581
+
+
+**********Deformation iteration number: 78; Iteration tolerance: 0.366802
+
+
+**********Deformation iteration number: 79; Iteration tolerance: 0.102821
+
+
+**********Deformation iteration number: 80; Iteration tolerance: 0.0248339
+
+
+**********Deformation iteration number: 81; Iteration tolerance: 0.460636
+
+
+**********Deformation iteration number: 82; Iteration tolerance: 0.488259
+
+
+**********Deformation iteration number: 83; Iteration tolerance: 0.746949
+
+
+**********Deformation iteration number: 84; Iteration tolerance: 0.193177
+
+
+**********Deformation iteration number: 85; Iteration tolerance: 1.2495
+
+
+**********Deformation iteration number: 86; Iteration tolerance: 0.678717
+
+
+**********Deformation iteration number: 87; Iteration tolerance: 0.224408
+
+
+**********Deformation iteration number: 88; Iteration tolerance: 0.672163
+
+
+**********Deformation iteration number: 89; Iteration tolerance: 0.180061
+
+
+**********Deformation iteration number: 90; Iteration tolerance: 1.05314
+
+
+**********Deformation iteration number: 91; Iteration tolerance: 0.595109
+
+
+**********Deformation iteration number: 92; Iteration tolerance: 0.369595
+
+
+**********Deformation iteration number: 93; Iteration tolerance: 0.103721
+
+
+**********Deformation iteration number: 94; Iteration tolerance: 0.025043
+
+
+**********Deformation iteration number: 95; Iteration tolerance: 0.464846
+
+
+**********Deformation iteration number: 96; Iteration tolerance: 0.489766
+
+
+**********Deformation iteration number: 97; Iteration tolerance: 0.745921
+
+
+**********Deformation iteration number: 98; Iteration tolerance: 0.192977
+
+
+**********Deformation iteration number: 99; Iteration tolerance: 1.24668
+
+
+**********Deformation iteration number: 100; Iteration tolerance: 0.677102
+
+
+**********Deformation iteration number: 101; Iteration tolerance: 0.223473
+
+
+**********Deformation iteration number: 102; Iteration tolerance: 0.672774
+
+
+**********Deformation iteration number: 103; Iteration tolerance: 0.180168
+
+
+**********Deformation iteration number: 104; Iteration tolerance: 1.05468
+
+
+**********Deformation iteration number: 105; Iteration tolerance: 0.595489
+
+
+**********Deformation iteration number: 106; Iteration tolerance: 0.367307
+
+
+**********Deformation iteration number: 107; Iteration tolerance: 0.102983
+
+
+**********Deformation iteration number: 108; Iteration tolerance: 0.0248717
+
+
+**********Deformation iteration number: 109; Iteration tolerance: 0.461348
+
+
+**********Deformation iteration number: 110; Iteration tolerance: 0.488514
+
+
+**********Deformation iteration number: 111; Iteration tolerance: 0.74672
+
+
+**********Deformation iteration number: 112; Iteration tolerance: 0.193132
+
+
+**********Deformation iteration number: 113; Iteration tolerance: 1.24887
+
+
+**********Deformation iteration number: 114; Iteration tolerance: 0.678354
+
+
+**********Deformation iteration number: 115; Iteration tolerance: 0.224198
+
+
+**********Deformation iteration number: 116; Iteration tolerance: 0.672296
+
+
+**********Deformation iteration number: 117; Iteration tolerance: 0.180084
+
+
+**********Deformation iteration number: 118; Iteration tolerance: 1.0535
+
+
+**********Deformation iteration number: 119; Iteration tolerance: 0.595184
+
+
+**********Deformation iteration number: 120; Iteration tolerance: 0.369112
+
+
+**********Deformation iteration number: 121; Iteration tolerance: 0.103566
+
+
+**********Deformation iteration number: 122; Iteration tolerance: 0.0250069
+
+
+**********Deformation iteration number: 123; Iteration tolerance: 0.464099
+
+
+**********Deformation iteration number: 124; Iteration tolerance: 0.489474
+
+
+**********Deformation iteration number: 125; Iteration tolerance: 0.746063
+
+
+**********Deformation iteration number: 126; Iteration tolerance: 0.193005
+
+
+**********Deformation iteration number: 127; Iteration tolerance: 1.24709
+
+
+**********Deformation iteration number: 128; Iteration tolerance: 0.677316
+
+
+**********Deformation iteration number: 129; Iteration tolerance: 0.223598
+
+
+**********Deformation iteration number: 130; Iteration tolerance: 0.672692
+
+
+**********Deformation iteration number: 131; Iteration tolerance: 0.180153
+
+
+**********Deformation iteration number: 132; Iteration tolerance: 1.05444
+
+
+**********Deformation iteration number: 133; Iteration tolerance: 0.595451
+
+
+**********Deformation iteration number: 134; Iteration tolerance: 0.367574
+
+
+**********Deformation iteration number: 135; Iteration tolerance: 0.103071
+
+
+**********Deformation iteration number: 136; Iteration tolerance: 0.0248919
+
+
+**********Deformation iteration number: 137; Iteration tolerance: 0.461779
+
+
+**********Deformation iteration number: 138; Iteration tolerance: 0.488676
+
+
+**********Deformation iteration number: 139; Iteration tolerance: 0.746656
+
+
+**********Deformation iteration number: 140; Iteration tolerance: 0.19312
+
+
+**********Deformation iteration number: 141; Iteration tolerance: 1.24872
+
+
+**********Deformation iteration number: 142; Iteration tolerance: 0.678245
+
+
+**********Deformation iteration number: 143; Iteration tolerance: 0.224137
+
+
+**********Deformation iteration number: 144; Iteration tolerance: 0.672333
+
+
+**********Deformation iteration number: 145; Iteration tolerance: 0.180091
+
+
+**********Deformation iteration number: 146; Iteration tolerance: 1.05358
+
+
+**********Deformation iteration number: 147; Iteration tolerance: 0.59521
+
+
+**********Deformation iteration number: 148; Iteration tolerance: 0.368973
+
+
+**********Deformation iteration number: 149; Iteration tolerance: 0.103521
+
+
+**********Deformation iteration number: 150; Iteration tolerance: 0.0249964
+
+
+**********Deformation iteration number: 151; Iteration tolerance: 0.463899
+
+
+**********Deformation iteration number: 152; Iteration tolerance: 0.48946
+
+
+**********Deformation iteration number: 153; Iteration tolerance: 0.746167
+
+
+**********Deformation iteration number: 154; Iteration tolerance: 0.193025
+
+
+**********Deformation iteration number: 155; Iteration tolerance: 1.24734
+
+
+**********Deformation iteration number: 156; Iteration tolerance: 0.677493
+
+
+**********Deformation iteration number: 157; Iteration tolerance: 0.223699
+
+
+**********Deformation iteration number: 158; Iteration tolerance: 0.672631
+
+
+**********Deformation iteration number: 159; Iteration tolerance: 0.180143
+
+
+**********Deformation iteration number: 160; Iteration tolerance: 1.05431
+
+
+**********Deformation iteration number: 161; Iteration tolerance: 0.595407
+
+
+**********Deformation iteration number: 162; Iteration tolerance: 0.367826
+
+
+**********Deformation iteration number: 163; Iteration tolerance: 0.103151
+
+
+**********Deformation iteration number: 164; Iteration tolerance: 0.0249106
+
+
+**********Deformation iteration number: 165; Iteration tolerance: 0.462146
+
+
+**********Deformation iteration number: 166; Iteration tolerance: 0.488835
+
+
+**********Deformation iteration number: 167; Iteration tolerance: 0.746571
+
+
+**********Deformation iteration number: 168; Iteration tolerance: 0.193103
+
+
+**********Deformation iteration number: 169; Iteration tolerance: 1.24845
+
+
+**********Deformation iteration number: 170; Iteration tolerance: 0.678128
+
+
+**********Deformation iteration number: 171; Iteration tolerance: 0.224066
+
+
+**********Deformation iteration number: 172; Iteration tolerance: 0.67239
+
+
+**********Deformation iteration number: 173; Iteration tolerance: 0.1801
+
+
+**********Deformation iteration number: 174; Iteration tolerance: 1.05371
+
+
+**********Deformation iteration number: 175; Iteration tolerance: 0.595252
+
+
+**********Deformation iteration number: 176; Iteration tolerance: 0.368749
+
+
+**********Deformation iteration number: 177; Iteration tolerance: 0.103448
+
+
+**********Deformation iteration number: 178; Iteration tolerance: 0.0249796
+
+
+**********Deformation iteration number: 179; Iteration tolerance: 0.463582
+
+
+**********Deformation iteration number: 180; Iteration tolerance: 0.489321
+
+
+**********Deformation iteration number: 181; Iteration tolerance: 0.746247
+
+
+**********Deformation iteration number: 182; Iteration tolerance: 0.193041
+
+
+**********Deformation iteration number: 183; Iteration tolerance: 1.24759
+
+
+**********Deformation iteration number: 184; Iteration tolerance: 0.677601
+
+
+**********Deformation iteration number: 185; Iteration tolerance: 0.223763
+
+
+**********Deformation iteration number: 186; Iteration tolerance: 0.672585
+
+
+**********Deformation iteration number: 187; Iteration tolerance: 0.180134
+
+
+**********Deformation iteration number: 188; Iteration tolerance: 1.05421
+
+
+**********Deformation iteration number: 189; Iteration tolerance: 0.595373
+
+
+**********Deformation iteration number: 190; Iteration tolerance: 0.368003
+
+
+**********Deformation iteration number: 191; Iteration tolerance: 0.103209
+
+
+**********Deformation iteration number: 192; Iteration tolerance: 0.0249239
+
+
+**********Deformation iteration number: 193; Iteration tolerance: 0.462452
+
+
+**********Deformation iteration number: 194; Iteration tolerance: 0.488936
+
+
+**********Deformation iteration number: 195; Iteration tolerance: 0.746532
+
+
+**********Deformation iteration number: 196; Iteration tolerance: 0.193097
+
+
+**********Deformation iteration number: 197; Iteration tolerance: 1.24835
+
+
+**********Deformation iteration number: 198; Iteration tolerance: 0.67806
+
+
+**********Deformation iteration number: 199; Iteration tolerance: 0.224027
+
+0.529649
+0.147905
+0.738808
+0.530164
+0.671848
+0.178063
+1.05756
+0.595272
+0.379555
+0.106892
+0.0259012
+0.480879
+0.494845
+0.741961
+0.192202
+1.23588
+0.67075
+0.22008
+0.675002
+0.180693
+1.05972
+0.596922
+0.357728
+0.0999692
+0.0240772
+0.446754
+0.482798
+0.749633
+0.193657
+1.25696
+0.683137
+0.226694
+0.670774
+0.179723
+1.04917
+0.594263
+0.373851
+0.105043
+0.0253303
+0.47263
+0.491671
+0.74502
+0.192823
+1.24417
+0.6756
+0.222626
+0.673195
+0.180239
+1.05569
+0.595776
+0.365668
+0.102456
+0.0247491
+0.458959
+0.487609
+0.747354
+0.193255
+1.25061
+0.679366
+0.224773
+0.671915
+0.180018
+1.05258
+0.594928
+0.370588
+0.10404
+0.025117
+0.466386
+0.49029
+0.745567
+0.192909
+1.24575
+0.67646
+0.223123
+0.6729
+0.180188
+1.05497
+0.595581
+0.366802
+0.102821
+0.0248339
+0.460636
+0.488259
+0.746949
+0.193177
+1.2495
+0.678717
+0.224408
+0.672163
+0.180061
+1.05314
+0.595109
+0.369595
+0.103721
+0.025043
+0.464846
+0.489766
+0.745921
+0.192977
+1.24668
+0.677102
+0.223473
+0.672774
+0.180168
+1.05468
+0.595489
+0.367307
+0.102983
+0.0248717
+0.461348
+0.488514
+0.74672
+0.193132
+1.24887
+0.678354
+0.224198
+0.672296
+0.180084
+1.0535
+0.595184
+0.369112
+0.103566
+0.0250069
+0.464099
+0.489474
+0.746063
+0.193005
+1.24709
+0.677316
+0.223598
+0.672692
+0.180153
+1.05444
+0.595451
+0.367574
+0.103071
+0.0248919
+0.461779
+0.488676
+0.746656
+0.19312
+1.24872
+0.678245
+0.224137
+0.672333
+0.180091
+1.05358
+0.59521
+0.368973
+0.103521
+0.0249964
+0.463899
+0.48946
+0.746167
+0.193025
+1.24734
+0.677493
+0.223699
+0.672631
+0.180143
+1.05431
+0.595407
+0.367826
+0.103151
+0.0249106
+0.462146
+0.488835
+0.746571
+0.193103
+1.24845
+0.678128
+0.224066
+0.67239
+0.1801
+1.05371
+0.595252
+0.368749
+0.103448
+0.0249796
+0.463582
+0.489321
+0.746247
+0.193041
+1.24759
+0.677601
+0.223763
+0.672585
+0.180134
+1.05421
+0.595373
+0.368003
+0.103209
+0.0249239
+0.462452
+0.488936
+0.746532
+0.193097
+1.24835
+0.67806
+0.224027

@@ -1,0 +1,110 @@
+﻿  cl : Command line warning D9002 : ignoring unknown option '/arch:SSE2'
+  cl : Command line warning D9002 : ignoring unknown option '/arch:SSE2'
+  Deformation.cpp
+  cl : Command line warning D9002 : ignoring unknown option '/arch:SSE2'
+  RotarySeal.cpp
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(7,8): warning C4244:  'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(7,8): warning C4244:         with
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(7,8): warning C4244:         [
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(7,8): warning C4244:             Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(7,8): warning C4244:         ]
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(8,8): warning C4244:  'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(8,8): warning C4244:         with
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(8,8): warning C4244:         [
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(8,8): warning C4244:             Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(8,8): warning C4244:         ]
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(94,24): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(95,31): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(96,32): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(97,36): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(98,39): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(99,33): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(100,33): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(102,33): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(103,32): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(104,45): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(46,8): warning C4244:  'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(46,8): warning C4244:         with
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(46,8): warning C4244:         [
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(46,8): warning C4244:             Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(46,8): warning C4244:         ]
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(47,8): warning C4244:  'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(47,8): warning C4244:         with
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(47,8): warning C4244:         [
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(47,8): warning C4244:             Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(47,8): warning C4244:         ]
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(106,41): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(78,8): warning C4244:  'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(78,8): warning C4244:         with
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(78,8): warning C4244:         [
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(78,8): warning C4244:             Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(78,8): warning C4244:         ]
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(79,8): warning C4244:  'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(79,8): warning C4244:         with
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(79,8): warning C4244:         [
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(79,8): warning C4244:             Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(79,8): warning C4244:         ]
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(112,8): warning C4244:  'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(112,8): warning C4244:         with
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(112,8): warning C4244:         [
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(112,8): warning C4244:             Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(112,8): warning C4244:         ]
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(113,8): warning C4244:  'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(113,8): warning C4244:         with
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(113,8): warning C4244:         [
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(113,8): warning C4244:             Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(113,8): warning C4244:         ]
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(107,44): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(108,44): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(110,49): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(111,34): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(112,35): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(114,38): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(115,42): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(116,29): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(118,32): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(119,52): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(114,79): warning C4101:  'yjlmd2': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(114,71): warning C4101:  'yjlpd2': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(114,55): warning C4101:  'xikpc2': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(114,63): warning C4101:  'xikmc2': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(179,8): warning C4244:  'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(179,8): warning C4244:         with
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(179,8): warning C4244:         [
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(179,8): warning C4244:             Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(179,8): warning C4244:         ]
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(180,8): warning C4244:  'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(180,8): warning C4244:         with
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(180,8): warning C4244:         [
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(180,8): warning C4244:             Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(180,8): warning C4244:         ]
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(120,41): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(125,37): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(126,36): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(127,38): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(128,37): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(129,38): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(131,39): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(186,18): warning C4101:  'k': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(181,79): warning C4101:  'yjlmd2': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(186,9): warning C4101:  'p': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(181,71): warning C4101:  'yjlpd2': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(186,21): warning C4101:  'l': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(132,37): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(186,15): warning C4101:  'j': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(186,12): warning C4101:  'i': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(181,55): warning C4101:  'xikpc2': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(186,6): warning C4101:  'o': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(181,63): warning C4101:  'xikmc2': unreferenced local variable
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(248,8): warning C4244:  'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\Deformation.cpp(249,8): warning C4244:  'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(133,41): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(135,49): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(136,53): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(137,36): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(138,36): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(139,33): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(140,42): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(143,44): warning C4307:  '*': integral constant overflow
+C:\Users\f.lai\source\repos\RotarySeal\RotarySeal\RotarySeal.cpp(144,47): warning C4307:  '*': integral constant overflow
+  RotarySeal.vcxproj -> C:\Users\f.lai\source\repos\RotarySeal\x64\Debug\RotarySeal.exe
